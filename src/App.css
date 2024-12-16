@@ -1,0 +1,25 @@
+.container{
+    margin-left: 19%;
+}
+.App {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  input {
+    padding: 8px;
+    margin-right: 10px;
+  }
+  
+  button {
+    padding: 5px 10px;
+    margin-left: 5px;
+    cursor: pointer;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
